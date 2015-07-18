@@ -1,0 +1,3 @@
+01-07-2015,Major,Block,1234,Federico,Ciao
+02-07-2015,Minor,Full,1235,Federico,Ciao
+03-07-2015,Medium,Block,1234,Federico,Ciao
